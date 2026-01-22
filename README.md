@@ -35,5 +35,3 @@ Os exercícios deste repositório trabalham principalmente:
 - Validações com estruturas condicionais
 - Laços de repetição com controle de fluxo
 - Exercícios práticos de lógica
-
----
