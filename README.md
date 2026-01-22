@@ -1,4 +1,4 @@
-# Exercícios de Estruturas de Controle em Java
+## Exercícios de Estruturas de Controle em Java
 
 Repositório criado para armazenar exercícios práticos em Java com foco em
 estruturas de controle, lógica de programação e fundamentos da linguagem.
