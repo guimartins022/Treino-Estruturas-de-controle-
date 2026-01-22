@@ -12,9 +12,9 @@ public class ParOuImpar {
 				+ " se é par ou ímpar, e se está entre 0 e 10: ");
 		int num = entrada.nextInt();
 		
-		boolean par = num % 2 == 0;
+		boolean par = num % 2 == 0; // Resto de divisão por 2 é 0, par.
 		
-		boolean impar = num % 2 == 1;
+		boolean impar = num % 2 == 1; // Resto de divisão por 2 é 1, ímpar.
 		
 		boolean entreZeroDez = num > 0 && num < 10;
 		
