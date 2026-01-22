@@ -18,7 +18,7 @@ public class SomaPositivos {
 			escolha = entrada.nextInt();
 			System.out.println();
 			if(escolha < 0) {
-				break;
+				break; // Sai do laço.
 			}
 			num += escolha;
 			System.out.printf("A soma é igual a %d\n", num);
