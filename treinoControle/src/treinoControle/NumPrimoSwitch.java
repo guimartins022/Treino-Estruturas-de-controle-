@@ -19,7 +19,8 @@ public class NumPrimoSwitch {
 				break;
 			}
 		}
-		
+
+		// Verificação feita com operador ternário:
 		switch(primo ? 1 : 0) {
 		case 1:
 			System.out.printf("\nO número %d é primo!", num);
